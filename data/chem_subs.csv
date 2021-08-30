@@ -1,0 +1,22 @@
+Chemical.chemical_id,name,chemical_substitutes.chemical_sub_id,name
+17,bicine,21785,sodium bicine
+111,bis-tris,21786,bis-tris chloride
+139,bis-tris propane,21787,bis-tris propane chloride
+39,HEPES,92,sodium HEPES
+117,jeffamine ED-2001,32313,jeffamine ED-2001
+32313,jeffamine ED-2003,117,jeffamine ED-2001
+27562,ammonium phosphate,10,ammonium dihydrogen phosphate
+27564,sodium phosphate,204,sodium dihydrogen phosphate-disodium hydrogen phosphate
+85,sodium acetate,21657,sodium acetate-acetic acid
+27566,potassium citrate,76,tripotassium citrate
+5023,tris,101,tris chloride
+27561,ammonium citrate,112,triammonium citrate
+5087,potassium sodium phosphate,168,sodium dihydrogen-dipotassium hydrogen phosphate
+53,MES,94,sodium MES
+142,MOPS,21737,sodium MOPS
+88,sodium citrate,5022,trisodium citrate-citric acid
+57,phosphate-citrate,37148,disodium hydrogen phosphate-citric acid
+46339,TES,46428,sodium TES
+27565,potassium phosphate,20517,potassium dihydrogen phosphate-dipotassium hydrogen phosphate
+115,sodium malonate,6048,sodium malonate-malonic acid
+-1,hexammine cobalt,-1,hexammine

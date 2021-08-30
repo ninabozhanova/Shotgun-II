@@ -1,0 +1,19 @@
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units  ph  percentage concentration  molarity ions     buffer
+111  polyethylene glycol 3350  20.0   w/v NaN                      20.0  0.597015   []  NotBuffer
+---------- Condition 2 --------------
+                         name  conc units  ph  percentage concentration  molarity ions     buffer
+119  polyethylene glycol 3350  25.0   w/v NaN                      25.0  0.746269   []  NotBuffer
+=====> Removing condition 2
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity       ions     buffer
+118         bis-tris chloride   0.1     m  5.5                    0.2092  0.100000  [(1, 55)]     Buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                   25.0000  0.746269         []  NotBuffer
+---------- Condition 2 --------------
+                         name  conc units   ph  percentage concentration  molarity       ions     buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                   25.0000  0.746269         []  NotBuffer
+152         bis-tris chloride   0.1     m  6.5                    0.2092  0.100000  [(1, 55)]     Buffer
+=====> Removing condition 2
+iteration 0 : replaced 2 conditions

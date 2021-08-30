@@ -1,0 +1,136 @@
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units  ph  percentage concentration  molarity ions     buffer
+111  polyethylene glycol 3350  20.0   w/v NaN                      20.0  0.597015   []  NotBuffer
+---------- Condition 2 --------------
+                         name  conc units  ph  percentage concentration  molarity ions     buffer
+119  polyethylene glycol 3350  25.0   w/v NaN                      25.0  0.746269   []  NotBuffer
+=====> Removing condition 2
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity       ions     buffer
+118         bis-tris chloride   0.1     m  5.5                    0.2092  0.100000  [(1, 55)]     Buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                   25.0000  0.746269         []  NotBuffer
+---------- Condition 2 --------------
+                         name  conc units   ph  percentage concentration  molarity       ions     buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                   25.0000  0.746269         []  NotBuffer
+152         bis-tris chloride   0.1     m  6.5                    0.2092  0.100000  [(1, 55)]     Buffer
+=====> Removing condition 2
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+118         bis-tris chloride   0.1     m  5.5                   0.20920  0.100000           [(1, 55)]     Buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+304        magnesium chloride   0.2     m  NaN                   0.19044  0.200000  [(1, 39), (1, 55)]  NotBuffer
+---------- Condition 2 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+152         bis-tris chloride   0.1     m  6.5                   0.20920  0.100000           [(1, 55)]     Buffer
+304        magnesium chloride   0.2     m  NaN                   0.19044  0.200000  [(1, 39), (1, 55)]  NotBuffer
+=====> Removing condition 2
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+58           ammonium sulfate   0.2     m  NaN                   0.26428  0.200000  [(1, 24), (1, 26)]  NotBuffer
+118         bis-tris chloride   0.1     m  5.5                   0.20920  0.100000           [(1, 55)]     Buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+---------- Condition 2 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+58           ammonium sulfate   0.2     m  NaN                   0.26428  0.200000  [(1, 24), (1, 26)]  NotBuffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+152         bis-tris chloride   0.1     m  6.5                   0.20920  0.100000           [(1, 55)]     Buffer
+=====> Removing condition 2
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+58           ammonium sulfate   0.2     m  NaN                   0.26428  0.200000  [(1, 24), (1, 26)]  NotBuffer
+118         bis-tris chloride   0.1     m  5.5                   0.20920  0.100000           [(1, 55)]     Buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+---------- Condition 2 --------------
+                          name  conc units   ph  percentage concentration  molarity                ions     buffer
+118          bis-tris chloride   0.1     m  5.5                    0.2092  0.100000           [(1, 55)]     Buffer
+374           ammonium sulfate   1.0     m  NaN                    1.3214  1.000000  [(1, 24), (1, 26)]  NotBuffer
+1147  polyethylene glycol 3350   1.0   w/v  NaN                    1.0000  0.029851                  []  NotBuffer
+=====> Removing condition 2
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+16            sodium chloride   0.2     m  NaN                   0.11688  0.200000  [(1, 57), (1, 55)]  NotBuffer
+118         bis-tris chloride   0.1     m  5.5                   0.20920  0.100000           [(1, 55)]     Buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+---------- Condition 2 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+16            sodium chloride   0.2     m  NaN                   0.11688  0.200000  [(1, 57), (1, 55)]  NotBuffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+152         bis-tris chloride   0.1     m  6.5                   0.20920  0.100000           [(1, 55)]     Buffer
+=====> Removing condition 2
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity               ions     buffer
+96            lithium sulfate   0.2     m  NaN                   0.21988  0.200000  [(1, 6), (1, 26)]  NotBuffer
+118         bis-tris chloride   0.1     m  5.5                   0.20920  0.100000          [(1, 55)]     Buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                 []  NotBuffer
+---------- Condition 2 --------------
+                         name  conc units   ph  percentage concentration  molarity               ions     buffer
+96            lithium sulfate   0.2     m  NaN                   0.21988  0.200000  [(1, 6), (1, 26)]  NotBuffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                 []  NotBuffer
+152         bis-tris chloride   0.1     m  6.5                   0.20920  0.100000          [(1, 55)]     Buffer
+=====> Removing condition 2
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity       ions     buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                   25.0000  0.746269         []  NotBuffer
+152         bis-tris chloride   0.1     m  6.5                    0.2092  0.100000  [(1, 55)]     Buffer
+---------- Condition 2 --------------
+                         name  conc units   ph  percentage concentration  molarity       ions     buffer
+118         bis-tris chloride   0.1     m  5.5                    0.2092  0.100000  [(1, 55)]     Buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                   25.0000  0.746269         []  NotBuffer
+=====> Removing condition 1
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                  name  conc units   ph  percentage concentration  molarity                ions     buffer
+39    ammonium sulfate   2.0     m  NaN                    2.6428       2.0  [(1, 24), (1, 26)]  NotBuffer
+118  bis-tris chloride   0.1     m  5.5                    0.2092       0.1           [(1, 55)]     Buffer
+---------- Condition 2 --------------
+                  name  conc units   ph  percentage concentration  molarity                ions     buffer
+39    ammonium sulfate   2.0     m  NaN                    2.6428       2.0  [(1, 24), (1, 26)]  NotBuffer
+152  bis-tris chloride   0.1     m  6.5                    0.2092       0.1           [(1, 55)]     Buffer
+=====> Removing condition 2
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+152         bis-tris chloride   0.1     m  6.5                   0.20920  0.100000           [(1, 55)]     Buffer
+304        magnesium chloride   0.2     m  NaN                   0.19044  0.200000  [(1, 39), (1, 55)]  NotBuffer
+---------- Condition 2 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+118         bis-tris chloride   0.1     m  5.5                   0.20920  0.100000           [(1, 55)]     Buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+304        magnesium chloride   0.2     m  NaN                   0.19044  0.200000  [(1, 39), (1, 55)]  NotBuffer
+=====> Removing condition 1
+iteration 0 : replaced 8 conditions
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+81           ammonium acetate   0.2     m  NaN                   0.15416  0.200000  [(1, 24), (1, 25)]  NotBuffer
+118         bis-tris chloride   0.1     m  5.5                   0.20920  0.100000           [(1, 55)]     Buffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+---------- Condition 2 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+81           ammonium acetate   0.2     m  NaN                   0.15416  0.200000  [(1, 24), (1, 25)]  NotBuffer
+119  polyethylene glycol 3350  25.0   w/v  NaN                  25.00000  0.746269                  []  NotBuffer
+152         bis-tris chloride   0.1     m  6.5                   0.20920  0.100000           [(1, 55)]     Buffer
+=====> Removing condition 2
+====== Similar conditions pair ======
+---------- Condition 1 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+50          trisodium citrate   0.1     m  NaN                   0.25806      0.10  [(3, 57), (1, 46)]  NotBuffer
+303  polyethylene glycol 4000  30.0   w/v  NaN                  30.00000      0.75                  []  NotBuffer
+607          ammonium acetate   0.2     m  5.6                   0.15416      0.20  [(1, 24), (1, 25)]     Buffer
+---------- Condition 2 --------------
+                         name  conc units   ph  percentage concentration  molarity                ions     buffer
+63          trisodium citrate   0.1     m  5.6                   0.25806      0.10  [(3, 57), (1, 46)]     Buffer
+81           ammonium acetate   0.2     m  NaN                   0.15416      0.20  [(1, 24), (1, 25)]  NotBuffer
+303  polyethylene glycol 4000  30.0   w/v  NaN                  30.00000      0.75                  []  NotBuffer
+=====> Removing condition 2
+iteration 1 : replaced 2 conditions

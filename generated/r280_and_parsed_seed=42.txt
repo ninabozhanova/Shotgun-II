@@ -1,0 +1,1496 @@
+
+======================================================
+3l4p:REMARK 280                                                                      
+3l4p:REMARK 280 CRYSTAL                                                              
+3l4p:REMARK 280 SOLVENT CONTENT, VS   (%): 49.83                                     
+3l4p:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.45                     
+3l4p:REMARK 280                                                                      
+3l4p:REMARK 280 CRYSTALLIZATION CONDITIONS: 30% ISOPROPANOL 0.2M MAGNESIUM           
+3l4p:REMARK 280  CHLORIDE, 0.1M HEPES PH 7.6 , VAPOR DIFFUSION, SITTING DROP,        
+3l4p:REMARK 280  TEMPERATURE 277K                                                    
+
+Parsed: 
+30.0 V/V 2-PROPANOL PH None
+0.2 M MAGNESIUM CHLORIDE PH None
+0.1 M HEPES PH 7.6
+
+======================================================
+2x4w:REMARK 280                                                                      
+2x4w:REMARK 280 CRYSTAL                                                              
+2x4w:REMARK 280 SOLVENT CONTENT, VS   (%): 50.62                                     
+2x4w:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.49                     
+2x4w:REMARK 280                                                                      
+2x4w:REMARK 280 CRYSTALLIZATION CONDITIONS: 4M SODIUM FORMATE, 0.1M TRIS (PH 8.5),   
+2x4w:REMARK 280  0.01M NACL                                                          
+
+Parsed: 
+4.0 M SODIUM FORMATE PH None
+0.1 M TRIS PH 8.5
+0.01 M SODIUM CHLORIDE PH None
+
+======================================================
+4u8l:REMARK 280                                                                      
+4u8l:REMARK 280 CRYSTAL                                                              
+4u8l:REMARK 280 SOLVENT CONTENT, VS   (%): 74.60                                     
+4u8l:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 4.84                     
+4u8l:REMARK 280                                                                      
+4u8l:REMARK 280 CRYSTALLIZATION CONDITIONS: 1.2 - 1.4 M AMMONIUM SULFATE AND 0.1 M   
+4u8l:REMARK 280  SODIUM ACETATE AT PH 4.5., VAPOR DIFFUSION, SITTING DROP,           
+4u8l:REMARK 280  TEMPERATURE 293K                                                    
+
+Parsed: 
+1.2 M AMMONIUM SULFATE PH None
+0.1 M SODIUM ACETATE PH 4.5
+
+======================================================
+2z5u:REMARK 280                                                                      
+2z5u:REMARK 280 CRYSTAL                                                              
+2z5u:REMARK 280 SOLVENT CONTENT, VS   (%): 66.55                                     
+2z5u:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.68                     
+2z5u:REMARK 280                                                                      
+2z5u:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1MM HEPES-NA, 5% MPD, 3-4.5% PEG       
+2z5u:REMARK 280  MONOMETHYLETHER 2000, 1MM DTT, PH 7.5, VAPOR DIFFUSION, HANGING     
+2z5u:REMARK 280  DROP, TEMPERATURE 277.0K                                            
+
+Parsed: 
+0.0001 M SODIUM HEPES PH 7.5
+5.0 V/V 2-METHYL-2,4-PENTANEDIOL PH None
+3.0 W/V POLYETHYLENE GLYCOL MONOMETHYL ETHER 2000 PH None
+0.001 M DITHIOTHREITOL PH None
+
+======================================================
+6exk:REMARK 280                                                                      
+6exk:REMARK 280 CRYSTAL                                                              
+6exk:REMARK 280 SOLVENT CONTENT, VS   (%): 45.50                                     
+6exk:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.26                     
+6exk:REMARK 280                                                                      
+6exk:REMARK 280 CRYSTALLIZATION CONDITIONS: PRFA WAS CO-CRYSTALLIZED WITH COMPLEX    
+6exk:REMARK 280  (5 MOL EXCESS) USING THE HANGING-DROP VAPOR-DIFFUSION TECHNIQUE.    
+6exk:REMARK 280  CRYSTALS GREW IN 5 DAYS AFTER 2 MICROL OF THE PROTEIN SOLUTION      
+6exk:REMARK 280  (3.2-3.5 MG PER ML PRFA, 200 MM NACL, 20 MM NAP BUFFER, PH 6.5)     
+6exk:REMARK 280  WAS MIXED WITH AN EQUAL VOLUME OF PRECIPITANT SOLUTION              
+6exk:REMARK 280  CONTAINING 20-24% PEG-4000, 17% ISOPROPANOL, 100 MM NA CITRATE      
+6exk:REMARK 280  PH 5.5 AND ALLOWED TO EQUILIBRATE OVER A 1 ML SOLUTION OF THE       
+6exk:REMARK 280  PRECIPITANT IN A LINBRO PLATE (HAMPTON RESEARCH)., VAPOR            
+6exk:REMARK 280  DIFFUSION, HANGING DROP, TEMPERATURE 291K                           
+
+Parsed: 
+0.2 M SODIUM CHLORIDE PH None
+20.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+17.0 V/V 2-PROPANOL PH None
+
+======================================================
+6gsc:REMARK 280                                                                      
+6gsc:REMARK 280 CRYSTAL                                                              
+6gsc:REMARK 280 SOLVENT CONTENT, VS   (%): 37.00                                     
+6gsc:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.00                     
+6gsc:REMARK 280                                                                      
+6gsc:REMARK 280 CRYSTALLIZATION CONDITIONS: 130 MM AMMONIUM CITRATE, 26% PEG 3350,   
+6gsc:REMARK 280  PH 8, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 291K               
+
+Parsed: 
+0.13 M AMMONIUM CITRATE PH None
+26.0 W/V POLYETHYLENE GLYCOL 3350 PH 8.0
+
+======================================================
+6sez:REMARK 280                                                                      
+6sez:REMARK 280 CRYSTAL                                                              
+6sez:REMARK 280 SOLVENT CONTENT, VS   (%): 37.87                                     
+6sez:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.98                     
+6sez:REMARK 280                                                                      
+6sez:REMARK 280 CRYSTALLIZATION CONDITIONS: 20% ETHYLENE GLYCOL 0.1 M SODIUM         
+6sez:REMARK 280  ACETATE PH 4.5 0.6 M SODIUM NITRATE, VAPOR DIFFUSION, HANGING       
+6sez:REMARK 280  DROP, TEMPERATURE 293K                                              
+
+Parsed: 
+20.0 V/V ETHYLENE GLYCOL PH None
+0.1 M SODIUM ACETATE PH 4.5
+0.6 M SODIUM NITRATE PH None
+
+======================================================
+3kn2:REMARK 280                                                                      
+3kn2:REMARK 280 CRYSTAL                                                              
+3kn2:REMARK 280 SOLVENT CONTENT, VS   (%): 68.23                                     
+3kn2:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.87                     
+3kn2:REMARK 280                                                                      
+3kn2:REMARK 280 CRYSTALLIZATION CONDITIONS: 1.25-1.50 M NACL,  0.1 M MES, 0.1 M      
+3kn2:REMARK 280  NA/K PO4, 5 MM B-MERCAPTOETHANOL, PH 5.6, VAPOR DIFFUSION,          
+3kn2:REMARK 280  HANGING DROP, TEMPERATURE 277K                                      
+
+Parsed: 
+1.25 M SODIUM CHLORIDE PH None
+0.1 M MES PH 5.6
+0.1 M POTASSIUM SODIUM PHOSPHATE PH None
+0.005 M BETA-MERCAPTOETHANOL PH None
+
+======================================================
+6wfm:REMARK 280                                                                      
+6wfm:REMARK 280 CRYSTAL                                                              
+6wfm:REMARK 280 SOLVENT CONTENT, VS   (%): 50.50                                     
+6wfm:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.48                     
+6wfm:REMARK 280                                                                      
+6wfm:REMARK 280 CRYSTALLIZATION CONDITIONS: MICROLYTIC MCSG-1 SCREEN, CONDITION      
+6wfm:REMARK 280  G7: 25% (W/V) PEG 3350, 100MM TRIS BASE / HCL PH 8.5:               
+6wfm:REMARK 280  STMAA.00952.A.B1.PW38746 (LABELLED AS STMAA.01067.A.B1.PW38746)     
+6wfm:REMARK 280  AT 9MG/ML: TRAY 314074G7: CRYO: 15% EG: PUCK QVY9-5. FOR PHASING,   
+6wfm:REMARK 280  A CRYSTAL FROM THE SAME CONDITION WAS INCUBATED FOR 20SEC IN A      
+6wfm:REMARK 280  MIX OF 90% RESERVOIR AND 10% 2.5M NAI IN EG, FOLLOWED BY A SOAK     
+6wfm:REMARK 280  FOR 20SEC IN A MIX OF 80% RESERVOIR AND 20% NAI IN EG. CRYO: 20%    
+6wfm:REMARK 280  EG + 500MM NAI: PUCK YNN3-13, VAPOR DIFFUSION, SITTING DROP,        
+6wfm:REMARK 280  TEMPERATURE 290K                                                    
+
+Parsed: 
+25.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+20.0 V/V ETHYLENE GLYCOL PH None
+
+======================================================
+2bit:REMARK 280                                                                      
+2bit:REMARK 280 CRYSTAL                                                              
+2bit:REMARK 280 SOLVENT CONTENT, VS   (%): 38.76                                     
+2bit:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.01                     
+2bit:REMARK 280                                                                      
+2bit:REMARK 280 CRYSTALLIZATION CONDITIONS: 31 MG/ML PROTEIN, 50 MM NA-PHOSPHATE     
+2bit:REMARK 280  (PH 7.3), 100 MM NACL, 2MM EDTA, 30% JEFFAMINE, PH 7.00             
+
+Parsed: 
+0.05 M SODIUM PHOSPHATE PH 7.3
+0.1 M SODIUM CHLORIDE PH None
+0.002 M EDTA PH None
+
+======================================================
+5kio:REMARK 280                                                                      
+5kio:REMARK 280 CRYSTAL                                                              
+5kio:REMARK 280 SOLVENT CONTENT, VS   (%): 53.43                                     
+5kio:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.64                     
+5kio:REMARK 280                                                                      
+5kio:REMARK 280 CRYSTALLIZATION CONDITIONS: 2.0M KPO4, 50MM 2                        
+5kio:REMARK 280  -HYDROXYETHYLDISULFIDE, 50MM 2-MERCAPTOETHANOL, PH 6.7, VAPOR       
+5kio:REMARK 280  DIFFUSION, HANGING DROP, TEMPERATURE 291.15K                        
+
+Parsed: 
+2.0 M POTASSIUM PHOSPHATE PH None
+0.05 M 2-HYDROXYETHYLDISULFIDE PH None
+0.05 M BETA-MERCAPTOETHANOL PH 6.7
+
+======================================================
+4i6g:REMARK 280                                                                      
+4i6g:REMARK 280 CRYSTAL                                                              
+4i6g:REMARK 280 SOLVENT CONTENT, VS   (%): 52.87                                     
+4i6g:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.61                     
+4i6g:REMARK 280                                                                      
+4i6g:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1M MES-IMADZOLE, PH 6.5,     7.2%      
+4i6g:REMARK 280  PEG8000, 20% ETHYLENE GLYCO(V/V), 0.03M NAF,NABR,NAI, VAPOR         
+4i6g:REMARK 280  DIFFUSION, HANGING DROP, TEMPERATURE 277K                           
+
+Parsed: 
+7.2 W/V POLYETHYLENE GLYCOL 8000 PH None
+20.0 V/V ETHYLENE GLYCOL PH None
+
+======================================================
+4f55:REMARK 280                                                                      
+4f55:REMARK 280 CRYSTAL                                                              
+4f55:REMARK 280 SOLVENT CONTENT, VS   (%): 66.35                                     
+4f55:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.66                     
+4f55:REMARK 280                                                                      
+4f55:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.8 M AMMONIUM PHOSPHATE AND 0.05        
+4f55:REMARK 280  SODIUM CITRATE, PH 5.3, VAPOR DIFFUSION, HANGING DROP,              
+4f55:REMARK 280  TEMPERATURE 277K                                                    
+
+Parsed: 
+0.8 M AMMONIUM PHOSPHATE PH 5.3
+
+======================================================
+4zup:REMARK 280                                                                      
+4zup:REMARK 280 CRYSTAL                                                              
+4zup:REMARK 280 SOLVENT CONTENT, VS   (%): 48.01                                     
+4zup:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.37                     
+4zup:REMARK 280                                                                      
+4zup:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.2 M KNO3, 20% (W/V) PEG 3,350, PH      
+4zup:REMARK 280  8.0, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 294K                
+
+Parsed: 
+0.2 M POTASSIUM NITRATE PH None
+20.0 W/V POLYETHYLENE GLYCOL 3350 PH 8.0
+
+======================================================
+3wur:REMARK 280                                                                      
+3wur:REMARK 280 CRYSTAL                                                              
+3wur:REMARK 280 SOLVENT CONTENT, VS   (%): 52.17                                     
+3wur:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.57                     
+3wur:REMARK 280                                                                      
+3wur:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.2M POTASSIUM SODIUM TARTRATE, 0.1M     
+3wur:REMARK 280  NA CITRATE, 1.6M AMMONIUM SULFATE , PH 5.6, VAPOR DIFFUSION,        
+3wur:REMARK 280  SITTING DROP, TEMPERATURE 298K                                      
+
+Parsed: 
+0.2 M POTASSIUM SODIUM TARTRATE PH None
+0.1 M SODIUM CITRATE PH None
+1.6 M AMMONIUM SULFATE PH 5.6
+
+======================================================
+5tux:REMARK 280                                                                      
+5tux:REMARK 280 CRYSTAL                                                              
+5tux:REMARK 280 SOLVENT CONTENT, VS   (%): 49.36                                     
+5tux:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.43                     
+5tux:REMARK 280                                                                      
+5tux:REMARK 280 CRYSTALLIZATION CONDITIONS: 25% PEG 3350, 0.1 M BIS-TRIS (PH 5.5),   
+5tux:REMARK 280  VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 293K                     
+
+Parsed: 
+25.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.1 M BIS-TRIS PH 5.5
+
+======================================================
+5y2b:REMARK 280                                                                      
+5y2b:REMARK 280 CRYSTAL                                                              
+5y2b:REMARK 280 SOLVENT CONTENT, VS   (%): 52.08                                     
+5y2b:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.57                     
+5y2b:REMARK 280                                                                      
+5y2b:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.2M SODIUM CHLORIDE, 0.1M TRIS, 25%     
+5y2b:REMARK 280  PEG3350, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 277K            
+
+Parsed: 
+0.2 M SODIUM CHLORIDE PH None
+0.1 M TRIS PH None
+25.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+
+======================================================
+5aus:REMARK 280                                                                      
+5aus:REMARK 280 CRYSTAL                                                              
+5aus:REMARK 280 SOLVENT CONTENT, VS   (%): 44.94                                     
+5aus:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.23                     
+5aus:REMARK 280                                                                      
+5aus:REMARK 280 CRYSTALLIZATION CONDITIONS: 100 MM TRIS-HCL, 200 MM SODIUM           
+5aus:REMARK 280  ACETATE, 30% W/V PEG 4000, PH 8.5, VAPOR DIFFUSION, SITTING DROP,   
+5aus:REMARK 280  TEMPERATURE 277K                                                    
+
+Parsed: 
+0.1 M TRIS CHLORIDE PH 8.5
+0.2 M SODIUM ACETATE PH None
+30.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+
+======================================================
+4r6i:REMARK 280                                                                      
+4r6i:REMARK 280 CRYSTAL                                                              
+4r6i:REMARK 280 SOLVENT CONTENT, VS   (%): 65.25                                     
+4r6i:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.54                     
+4r6i:REMARK 280                                                                      
+4r6i:REMARK 280 CRYSTALLIZATION CONDITIONS: 3 M NACL, 0.1 M BIS-TRIS BUFFER, 0.2%    
+4r6i:REMARK 280  N-DODECYL-BETA-D-MALTOSIDE, PH 6.5, VAPOR DIFFUSION, SITTING        
+4r6i:REMARK 280  DROP, TEMPERATURE 277K                                              
+
+Parsed: 
+3.0 M SODIUM CHLORIDE PH None
+0.1 M BIS-TRIS PH 6.5
+0.2 V/V N-DODECYL-B-D-MALTOSIDE PH None
+
+======================================================
+3iq1:REMARK 280                                                                      
+3iq1:REMARK 280 CRYSTAL                                                              
+3iq1:REMARK 280 SOLVENT CONTENT, VS   (%): 52.49                                     
+3iq1:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.59                     
+3iq1:REMARK 280                                                                      
+3iq1:REMARK 280 CRYSTALLIZATION CONDITIONS: 1.4 M SODIUM MALONATE, 0.1 BIS-TRIS      
+3iq1:REMARK 280  PROPANE PH 7.0, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 279K     
+
+Parsed: 
+1.4 M SODIUM MALONATE PH 7.0
+
+======================================================
+6fbi:REMARK 280                                                                      
+6fbi:REMARK 280 CRYSTAL                                                              
+6fbi:REMARK 280 SOLVENT CONTENT, VS   (%): 44.17                                     
+6fbi:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.20                     
+6fbi:REMARK 280                                                                      
+6fbi:REMARK 280 CRYSTALLIZATION CONDITIONS: (A) 16 % PEG 4000, 0.1 M SODIUM          
+6fbi:REMARK 280  ACETATE, 20 MM MANGANESE(II) CHLORIDE, 0.1 M MES (B) 17 % PEG       
+6fbi:REMARK 280  4000, 0.1 M AMMONIUM ACETATE, 0.1 M HEPES, 20 MM MANGANESE(II)      
+6fbi:REMARK 280  CHLORIDE (C) 15 % PEG 4000, 0.1 M SODIUM ACETATE, 20 MM             
+6fbi:REMARK 280  MANGANESE(II) CHLORIDE, 0.1 M MES, VAPOR DIFFUSION, TEMPERATURE     
+6fbi:REMARK 280  291K                                                                
+
+Parsed: 
+16.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+0.1 M SODIUM ACETATE PH None
+0.02 M MANGANESE(II) CHLORIDE PH None
+17.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+0.1 M AMMONIUM ACETATE PH None
+0.1 M HEPES PH None
+15.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+0.1 M SODIUM ACETATE PH None
+0.02 M MANGANESE(II) CHLORIDE PH None
+0.1 M MES PH None
+
+======================================================
+6t6b:REMARK 280                                                                      
+6t6b:REMARK 280 CRYSTAL                                                              
+6t6b:REMARK 280 SOLVENT CONTENT, VS   (%): 52.26                                     
+6t6b:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.58                     
+6t6b:REMARK 280                                                                      
+6t6b:REMARK 280 CRYSTALLIZATION CONDITIONS: 33% PEG 3350, 0.15 M SODIUM CITRATE      
+6t6b:REMARK 280  AND 0.1 M TRIS, PH 8.0, VAPOR DIFFUSION, SITTING DROP,              
+6t6b:REMARK 280  TEMPERATURE 293.15K                                                 
+
+Parsed: 
+33.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.15 M SODIUM CITRATE PH None
+0.1 M TRIS PH 8.0
+
+======================================================
+2ddk:REMARK 280                                                                      
+2ddk:REMARK 280 CRYSTAL                                                              
+2ddk:REMARK 280 SOLVENT CONTENT, VS   (%): 52.49                                     
+2ddk:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.59                     
+2ddk:REMARK 280                                                                      
+2ddk:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.025M POTASSIUM DIHYDROGEN              
+2ddk:REMARK 280  PHOSPHATE, 14% PEG8000, 5MM LICL, VAPOR DIFFUSION, SITTING          
+2ddk:REMARK 280  DROP, TEMPERATURE 293K                                              
+
+Parsed: 
+0.025 M POTASSIUM DIHYDROGEN PHOSPHATE PH None
+14.0 W/V POLYETHYLENE GLYCOL 8000 PH None
+0.005 M LITHIUM CHLORIDE PH None
+
+======================================================
+6a5k:REMARK 280                                                                      
+6a5k:REMARK 280 CRYSTAL                                                              
+6a5k:REMARK 280 SOLVENT CONTENT, VS   (%): 45.18                                     
+6a5k:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.24                     
+6a5k:REMARK 280                                                                      
+6a5k:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.2M POTASSIUM SODIUM TARTRATE, 20%      
+6a5k:REMARK 280  PEG 3350, PH 7, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 277K     
+
+Parsed: 
+0.2 M POTASSIUM SODIUM TARTRATE PH None
+20.0 W/V POLYETHYLENE GLYCOL 3350 PH 7.0
+
+======================================================
+5ytl:REMARK 280                                                                      
+5ytl:REMARK 280 CRYSTAL                                                              
+5ytl:REMARK 280 SOLVENT CONTENT, VS   (%): 59.60                                     
+5ytl:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.04                     
+5ytl:REMARK 280                                                                      
+5ytl:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1M ACETATE BUFFER PH 4.5, 6.0 % PEG    
+5ytl:REMARK 280  4000, 75MM CUSO4, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 293K   
+
+Parsed: 
+0.1 M SODIUM ACETATE PH 4.5
+6.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+0.075 M COPPER(II) SULFATE PH None
+
+======================================================
+6af3:REMARK 280                                                                      
+6af3:REMARK 280 CRYSTAL                                                              
+6af3:REMARK 280 SOLVENT CONTENT, VS   (%): 37.15                                     
+6af3:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.96                     
+6af3:REMARK 280                                                                      
+6af3:REMARK 280 CRYSTALLIZATION CONDITIONS: 20%(W/V) PEG 1000, 0.1M POTASSIUM        
+6af3:REMARK 280  PHOSPHATE MONOBASIC/SODIUM PHOSPHATE DIBASIC, PH 6.2, 0.2M          
+6af3:REMARK 280  SODIUM CHLORIDE, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 293K    
+
+Parsed: 
+20.0 W/V POLYETHYLENE GLYCOL 1000 PH None
+0.2 M SODIUM CHLORIDE PH None
+
+======================================================
+6egk:REMARK 280                                                                      
+6egk:REMARK 280 CRYSTAL                                                              
+6egk:REMARK 280 SOLVENT CONTENT, VS   (%): 42.98                                     
+6egk:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.16                     
+6egk:REMARK 280                                                                      
+6egk:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1M BIS-TRIS, 12% PEG MONOMETHYL        
+6egk:REMARK 280  ETHER 5000, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 298K         
+
+Parsed: 
+0.1 M BIS-TRIS PH None
+12.0 W/V POLYETHYLENE GLYCOL MONOMETHYL ETHER 5000 PH None
+
+======================================================
+6pq7:REMARK 280                                                                      
+6pq7:REMARK 280 CRYSTAL                                                              
+6pq7:REMARK 280 SOLVENT CONTENT, VS   (%): 57.56                                     
+6pq7:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.90                     
+6pq7:REMARK 280                                                                      
+6pq7:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1 M NA CACODYLATE PH 7.1, 17.5%        
+6pq7:REMARK 280  (W/V) POLYETHYLENE GLYCOL (PEG) 3350, AND 0.25 M MAGNESIUM          
+6pq7:REMARK 280  ACETATE, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 294K            
+
+Parsed: 
+0.1 M SODIUM CACODYLATE PH 7.1
+17.5 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.25 M MAGNESIUM ACETATE PH None
+
+======================================================
+6ulo:REMARK 280                                                                      
+6ulo:REMARK 280 CRYSTAL                                                              
+6ulo:REMARK 280 SOLVENT CONTENT, VS   (%): 45.50                                     
+6ulo:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.26                     
+6ulo:REMARK 280                                                                      
+6ulo:REMARK 280 CRYSTALLIZATION CONDITIONS: MOLECULAR DIMENSIONS MORPHEUS SCREEN,    
+6ulo:REMARK 280  CONDITION H5: 10% W/V PEG 20 000, 20% V/V PEG MME 550: 20MM OF      
+6ulo:REMARK 280  EACH AMINO ACID: SODIUM L-GLUTAMATE, DL-ALANINE, GLYCINE, DL-       
+6ulo:REMARK 280  LYSINE HCL, DL-SERINE: 100MM MOPS/HEPES-NA PH 7.5:                  
+6ulo:REMARK 280  LPINA.195645.A.B2.PW386228 AT 23MG/ML. CRYO: DIRECT: TRAY 310523    
+6ulo:REMARK 280  H5: PUCK PAS1-8. FOR PHASING A CRYSTAL FROM THE SAME TRAY, WELL     
+6ulo:REMARK 280  C1 (10% W/V PEG 20 000, 20% V/V PEG MME 550: 30MM OF EACH SODIUM    
+6ulo:REMARK 280  NITRATE, DISODIUM HYDROGEN PHOSPHATE, AMMONIUM SULFATE: 100MM       
+6ulo:REMARK 280  MES/IMIDAZOLE PH 6.5) WAS INCUBATED FOR 20SEC IN A MIXTURE OF 10%   
+6ulo:REMARK 280  5M SODIUM IODIDE IN ETHYLENE GLYCOL (500MM FINAL NAI                
+6ulo:REMARK 280  CONCENTRATION) AND 90% RESERVOIR SOLUTION. DIFFRACTION DATA WERE    
+6ulo:REMARK 280  COLLECTED IN-HOUSE.TRAY 310523 C1: PUCK LOF7-9, PH 9.5, VAPOR       
+6ulo:REMARK 280  DIFFUSION, SITTING DROP, TEMPERATURE 290K                           
+
+Parsed: 
+20.0 V/V POLYETHYLENE GLYCOL MONOMETHYL ETHER 550 PH None
+20.0 V/V POLYETHYLENE GLYCOL MONOMETHYL ETHER 550 PH None
+0.03 M SODIUM NITRATE PH None
+0.5 M SODIUM IODIDE PH None
+
+======================================================
+3w2x:REMARK 280                                                                      
+3w2x:REMARK 280 CRYSTAL                                                              
+3w2x:REMARK 280 SOLVENT CONTENT, VS   (%): 47.90                                     
+3w2x:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.36                     
+3w2x:REMARK 280                                                                      
+3w2x:REMARK 280 CRYSTALLIZATION CONDITIONS: 10% PEG3350, 50MM MAGNESIUM FORMATE      
+3w2x:REMARK 280  DIHYDRATE, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 293K          
+
+Parsed: 
+10.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.05 M MAGNESIUM FORMATE PH None
+
+======================================================
+3l3f:REMARK 280                                                                      
+3l3f:REMARK 280 CRYSTAL                                                              
+3l3f:REMARK 280 SOLVENT CONTENT, VS   (%): 54.64                                     
+3l3f:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.71                     
+3l3f:REMARK 280                                                                      
+3l3f:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1M TRIS-HCL (PH 7.5), 28% PEG 3350,    
+3l3f:REMARK 280  0.1M AMMONIUM SULFATE, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE   
+3l3f:REMARK 280  293K                                                                
+
+Parsed: 
+0.1 M TRIS CHLORIDE PH 7.5
+28.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.1 M AMMONIUM SULFATE PH None
+
+======================================================
+2c8g:REMARK 280                                                                      
+2c8g:REMARK 280 CRYSTAL                                                              
+2c8g:REMARK 280 SOLVENT CONTENT, VS   (%): 50.03                                     
+2c8g:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.48                     
+2c8g:REMARK 280                                                                      
+2c8g:REMARK 280 CRYSTALLIZATION CONDITIONS: 22.5% PEG 3350 W/W, 100 MM               
+2c8g:REMARK 280  LI2SO4, 100 MM SODIUM CITRATE PH 3.0, 3-10% MPEG 550 V/V            
+
+Parsed: 
+22.5 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.1 M LITHIUM SULFATE PH None
+0.1 M SODIUM CITRATE PH 3.0
+3.0 V/V POLYETHYLENE GLYCOL MONOMETHYL ETHER 550 PH None
+
+======================================================
+1vfe:REMARK 280                                                                      
+1vfe:REMARK 280 CRYSTAL                                                              
+1vfe:REMARK 280 SOLVENT CONTENT, VS   (%): 50.00                                     
+1vfe:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.03                     
+1vfe:REMARK 280                                                                      
+1vfe:REMARK 280 CRYSTALLIZATION CONDITIONS: 50MM TRIS/HCL PH 8.0, 12% ISOPROPANOL    
+
+Parsed: 
+0.05 M TRIS CHLORIDE PH 8.0
+12.0 V/V 2-PROPANOL PH None
+
+======================================================
+5duq:REMARK 280                                                                      
+5duq:REMARK 280 CRYSTAL                                                              
+5duq:REMARK 280 SOLVENT CONTENT, VS   (%): 66.20                                     
+5duq:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.64                     
+5duq:REMARK 280                                                                      
+5duq:REMARK 280 CRYSTALLIZATION CONDITIONS: 11 MG/ML OF C1-INHIBITOR WAS MIXED       
+5duq:REMARK 280  WITH 5KDA DEXTRAN SULFATE IN A 1:2 MOLAR RATIO AND INCUBATED ON     
+5duq:REMARK 280  ICE FOR AN HOUR. CRYSTALS GREW IN0.1 M SPG (PH 9), 25% W/V PEG      
+5duq:REMARK 280  1500 0.1 M MGCL HEXAHYDRATE AFTER 10 DAYS., VAPOR DIFFUSION,        
+5duq:REMARK 280  SITTING DROP, TEMPERATURE 293K                                      
+
+Parsed: 
+0.1 M SUCCINATE-PHOSPHATE-GLYCINE PH 9.0
+25.0 W/V POLYETHYLENE GLYCOL 1500 PH None
+0.1 M MAGNESIUM CHLORIDE PH None
+
+======================================================
+5h98:REMARK 280                                                                      
+5h98:REMARK 280 CRYSTAL                                                              
+5h98:REMARK 280 SOLVENT CONTENT, VS   (%): 33.04                                     
+5h98:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.84                     
+5h98:REMARK 280                                                                      
+5h98:REMARK 280 CRYSTALLIZATION CONDITIONS: 16-21% PEG 6000, 0.2M NACL OR            
+5h98:REMARK 280  (NH4)2SO4 AND 0.1M MES (PH 6.0), VAPOR DIFFUSION, SITTING DROP,     
+5h98:REMARK 280  TEMPERATURE 298K                                                    
+
+Parsed: 
+16.0 W/V POLYETHYLENE GLYCOL 6000 PH None
+0.2 M SODIUM CHLORIDE PH None
+0.1 M MES PH 6.0
+
+======================================================
+3nof:REMARK 280                                                                      
+3nof:REMARK 280 CRYSTAL                                                              
+3nof:REMARK 280 SOLVENT CONTENT, VS   (%): 60.26                                     
+3nof:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.10                     
+3nof:REMARK 280                                                                      
+3nof:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.2M POTASSIUM THIOCYANATE, 2.2M         
+3nof:REMARK 280  AMMONIUM SULPHATE, PH 7.4, VAPOR DIFFUSION, SITTING DROP,           
+3nof:REMARK 280  TEMPERATURE 292K                                                    
+
+Parsed: 
+0.2 M POTASSIUM THIOCYANATE PH None
+2.2 M AMMONIUM SULFATE PH 7.4
+
+======================================================
+4xd3:REMARK 280                                                                      
+4xd3:REMARK 280 CRYSTAL                                                              
+4xd3:REMARK 280 SOLVENT CONTENT, VS   (%): 45.62                                     
+4xd3:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.26                     
+4xd3:REMARK 280                                                                      
+4xd3:REMARK 280 CRYSTALLIZATION CONDITIONS: 100 MM NACACODYLATE 30% 2-METHANE-2,4    
+4xd3:REMARK 280  -PENTANEDIOL, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 277.15K    
+
+Parsed: 
+0.1 M SODIUM CACODYLATE PH None
+
+======================================================
+2h6t:REMARK 280                                                                      
+2h6t:REMARK 280 CRYSTAL                                                              
+2h6t:REMARK 280 SOLVENT CONTENT, VS   (%): 51.13                                     
+2h6t:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.52                     
+2h6t:REMARK 280                                                                      
+2h6t:REMARK 280 CRYSTALLIZATION CONDITIONS: 15% PEG 4000, 0.2 M POTASSIUM BROMIDE,   
+2h6t:REMARK 280  0.1 M CACODYLIC ACID/ NAOH , PH 6.5, VAPOR DIFFUSION, SITTING       
+2h6t:REMARK 280  DROP, TEMPERATURE 293K                                              
+
+Parsed: 
+15.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+0.2 M POTASSIUM BROMIDE PH None
+
+======================================================
+4moi:REMARK 280                                                                      
+4moi:REMARK 280 CRYSTAL                                                              
+4moi:REMARK 280 SOLVENT CONTENT, VS   (%): 43.60                                     
+4moi:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.18                     
+4moi:REMARK 280                                                                      
+4moi:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1 M MES, 50 MM MGCL2, 10% (W/V)        
+4moi:REMARK 280  MONOMETHYLETHER PEG 2000, PH 5.2, VAPOR DIFFUSION, HANGING DROP,    
+4moi:REMARK 280  TEMPERATURE 298K                                                    
+
+Parsed: 
+0.1 M MES PH 5.2
+0.05 M MAGNESIUM CHLORIDE PH None
+10.0 W/V POLYETHYLENE GLYCOL MONOMETHYL ETHER 2000 PH None
+
+======================================================
+1oqj:REMARK 280                                                                      
+1oqj:REMARK 280 CRYSTAL                                                              
+1oqj:REMARK 280 SOLVENT CONTENT, VS   (%): 36.86                                     
+1oqj:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.96                     
+1oqj:REMARK 280                                                                      
+1oqj:REMARK 280 CRYSTALLIZATION CONDITIONS: 100 MM HEPES, 1.4 M SODIUM CITRATE, PH   
+1oqj:REMARK 280  7.5, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 296.0K              
+
+Parsed: 
+0.1 M HEPES PH 7.5
+1.4 M SODIUM CITRATE PH None
+
+======================================================
+1vq3:REMARK 280                                                                      
+1vq3:REMARK 280 CRYSTAL                                                              
+1vq3:REMARK 280 SOLVENT CONTENT, VS   (%): 45.84                                     
+1vq3:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.29                     
+1vq3:REMARK 280                                                                      
+1vq3:REMARK 280 CRYSTALLIZATION CONDITIONS: 20.0% GLYCEROL, 24.0% PEG-1500,, VAPOR   
+1vq3:REMARK 280  DIFFUSION,SITTING DROP,NANODROP, TEMPERATURE 277K                   
+
+Parsed: 
+20.0 V/V GLYCEROL PH None
+24.0 W/V POLYETHYLENE GLYCOL 1500 PH None
+
+======================================================
+3qcs:REMARK 280                                                                      
+3qcs:REMARK 280 CRYSTAL                                                              
+3qcs:REMARK 280 SOLVENT CONTENT, VS   (%): 57.89                                     
+3qcs:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.92                     
+3qcs:REMARK 280                                                                      
+3qcs:REMARK 280 CRYSTALLIZATION CONDITIONS: 1.9-2 M AMMONIUM SULFATE,0.1 M TRIS PH   
+3qcs:REMARK 280  9. AND 5MM ATP 15-30% GLYCEROL PLUS MOTHER LIQUOR MIXED WITH        
+3qcs:REMARK 280  INHIBITOR SERVED AS THE CRYO-PROTECTANT BEFORE BEING FROZEN IN      
+3qcs:REMARK 280  LIQUID NITROGEN, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 293K    
+
+Parsed: 
+1.9 M AMMONIUM SULFATE PH None
+0.1 M TRIS PH 9.0
+0.005 M ADENOSINE TRIPHOSPHATE PH None
+15.0 V/V GLYCEROL PH None
+
+======================================================
+4g7v:REMARK 280                                                                      
+4g7v:REMARK 280 CRYSTAL                                                              
+4g7v:REMARK 280 SOLVENT CONTENT, VS   (%): 65.46                                     
+4g7v:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.56                     
+4g7v:REMARK 280                                                                      
+4g7v:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1 M SPG, 20% PEG 1500, 10% GLYCEROL,   
+4g7v:REMARK 280  PH 8.0, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 293K             
+
+Parsed: 
+0.1 M SUCCINATE-PHOSPHATE-GLYCINE PH None
+20.0 W/V POLYETHYLENE GLYCOL 1500 PH None
+10.0 V/V GLYCEROL PH 8.0
+
+======================================================
+6b54:REMARK 280                                                                      
+6b54:REMARK 280 CRYSTAL                                                              
+6b54:REMARK 280 SOLVENT CONTENT, VS   (%): 45.78                                     
+6b54:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.27                     
+6b54:REMARK 280                                                                      
+6b54:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.06 M (MAGNESIUM CHLORIDE, CALCIUM      
+6b54:REMARK 280  CHLORIDE), 0.1 M (TRIS, BICINE), PH 8.5, 37.5% (MPD, PEG1000,       
+6b54:REMARK 280  PEG3350), VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 295K           
+
+Parsed: 
+0.06 M MAGNESIUM CHLORIDE PH None
+0.1 M TRIS-BICINE PH 8.5
+37.5 V/V 2-METHYL-2,4-PENTANEDIOL PH None
+
+======================================================
+4ks5:REMARK 280                                                                      
+4ks5:REMARK 280 CRYSTAL                                                              
+4ks5:REMARK 280 SOLVENT CONTENT, VS   (%): 44.92                                     
+4ks5:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.23                     
+4ks5:REMARK 280                                                                      
+4ks5:REMARK 280 CRYSTALLIZATION CONDITIONS: 40% 2-METHYL-2,4-PENTANEDIOL, VAPOR      
+4ks5:REMARK 280  DIFFUSION, HANGING DROP, TEMPERATURE 292K                           
+
+Parsed: 
+40.0 V/V 2-METHYL-2,4-PENTANEDIOL PH None
+
+======================================================
+5l4r:REMARK 280                                                                      
+5l4r:REMARK 280 CRYSTAL                                                              
+5l4r:REMARK 280 SOLVENT CONTENT, VS   (%): 56.46                                     
+5l4r:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.82                     
+5l4r:REMARK 280                                                                      
+5l4r:REMARK 280 CRYSTALLIZATION CONDITIONS: 20 % PEG3350, 0.2 M SODIUM TARTRATE.     
+5l4r:REMARK 280  CRYSTALS OF THE ADDUCT WERE OBTAINED BY SOAKING PROCEDURE,          
+5l4r:REMARK 280  ADDING 1 UL OF CISPLATIN SOLUTION 10 MM TO THE DROP CONTAINING      
+5l4r:REMARK 280  THAUMATIN CRYSTALS, PH 6.5, VAPOR DIFFUSION, HANGING DROP,          
+5l4r:REMARK 280  TEMPERATURE 298K                                                    
+
+Parsed: 
+20.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.2 M DISODIUM TARTRATE PH None
+
+======================================================
+4js3:REMARK 280                                                                      
+4js3:REMARK 280 CRYSTAL                                                              
+4js3:REMARK 280 SOLVENT CONTENT, VS   (%): 64.27                                     
+4js3:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.44                     
+4js3:REMARK 280                                                                      
+4js3:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1M ACETATE PH 4.8, 40MM UDAO, 20.8MM   
+4js3:REMARK 280  N,N-DIMETHYLDECYLAMINE-N-OXIDE(DDAO), 2MM DHO, 2.4-2.6M AMMONIUM    
+4js3:REMARK 280  SULFATE, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 293K            
+
+Parsed: 
+0.1 M SODIUM ACETATE PH 4.8
+0.04 M UDAO PH None
+0.002 M 4,5-DIHYDROOROTIC ACID PH None
+2.4 M AMMONIUM SULFATE PH None
+
+======================================================
+5vve:REMARK 280                                                                      
+5vve:REMARK 280 CRYSTAL                                                              
+5vve:REMARK 280 SOLVENT CONTENT, VS   (%): 46.20                                     
+5vve:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.28                     
+5vve:REMARK 280                                                                      
+5vve:REMARK 280 CRYSTALLIZATION CONDITIONS: MICOLYTIC MCSG1 A7: 200MM MGCL2, 25%     
+5vve:REMARK 280  PEG 3350, 100MM BISTRIS HCL PH 5.5:NAFOA.0013.A.B1.PS38236 AT       
+5vve:REMARK 280  18.9MG/ML: CRYSTALS SOAKED FOR 3H WITH 2.5MM 3-POSPHO-GLYCERATE     
+5vve:REMARK 280  (BSI 1959, NOT VISIBLE IN STRUCTURE): CRYO: 20% EG, TRAY:           
+5vve:REMARK 280  290723A7, PUCK WVN8-2, VAPOR DIFFUSION, SITTING DROP                
+
+Parsed: 
+0.2 M MAGNESIUM CHLORIDE PH None
+25.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+20.0 V/V ETHYLENE GLYCOL PH None
+
+======================================================
+5mgw:REMARK 280                                                                      
+5mgw:REMARK 280 CRYSTAL                                                              
+5mgw:REMARK 280 SOLVENT CONTENT, VS   (%): 50.96                                     
+5mgw:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.51                     
+5mgw:REMARK 280                                                                      
+5mgw:REMARK 280 CRYSTALLIZATION CONDITIONS: 2 MM DTT, 100 MM BIS-TRIS PROPANE PH 7   
+5mgw:REMARK 280  AND 1.8 M SODIUM ACETATE PH 7, VAPOR DIFFUSION, HANGING DROP,       
+5mgw:REMARK 280  TEMPERATURE 292K                                                    
+
+Parsed: 
+0.002 M DITHIOTHREITOL PH None
+0.1 M BIS-TRIS PROPANE PH 7.0
+1.8 M SODIUM ACETATE PH 7.0
+
+======================================================
+4uxd:REMARK 280                                                                      
+4uxd:REMARK 280 CRYSTAL                                                              
+4uxd:REMARK 280 SOLVENT CONTENT, VS   (%): 50.58                                     
+4uxd:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.49                     
+4uxd:REMARK 280                                                                      
+4uxd:REMARK 280 CRYSTALLIZATION CONDITIONS: PROTEIN AT 4.2MG/ML MIXED 1:1 WITH       
+4uxd:REMARK 280  (0.085 M HEPES SODIUM BUFFER PH 7.5, 8.5% V/V 2-PROPANOL, 17% W/    
+4uxd:REMARK 280  V PEG 4000, 15% V/V GLYCEROL (ANHYDROUS))                           
+
+Parsed: 
+0.085 M SODIUM HEPES PH 7.5
+8.5 V/V 2-PROPANOL PH None
+17.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+15.0 V/V GLYCEROL PH None
+
+======================================================
+5vie:REMARK 280                                                                      
+5vie:REMARK 280 CRYSTAL                                                              
+5vie:REMARK 280 SOLVENT CONTENT, VS   (%): 61.53                                     
+5vie:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.20                     
+5vie:REMARK 280                                                                      
+5vie:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.08 M TRIS (PH 8.5), 0.02 M SODIUM      
+5vie:REMARK 280  CACODYLATE TRIHYDRATE (PH 6.5), 1.24 M AMMONIUM SULFATE, AND 6%     
+5vie:REMARK 280  W/V POLYETHYLENE GLYCOL 8,000., EVAPORATION, TEMPERATURE 293K       
+
+Parsed: 
+0.08 M TRIS PH 8.5
+0.02 M SODIUM CACODYLATE PH 6.5
+1.24 M AMMONIUM SULFATE PH None
+6.0 W/V POLYETHYLENE GLYCOL 8000 PH None
+
+======================================================
+3gdt:REMARK 280                                                                      
+3gdt:REMARK 280 CRYSTAL                                                              
+3gdt:REMARK 280 SOLVENT CONTENT, VS   (%): 45.45                                     
+3gdt:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.25                     
+3gdt:REMARK 280                                                                      
+3gdt:REMARK 280 CRYSTALLIZATION CONDITIONS: 25% PEG 3350, 0.1M BIS-TRIS, PH          
+3gdt:REMARK 280  5.5, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 293.0K              
+
+Parsed: 
+25.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.1 M BIS-TRIS PH 5.5
+
+======================================================
+5cp9:REMARK 280                                                                      
+5cp9:REMARK 280 CRYSTAL                                                              
+5cp9:REMARK 280 SOLVENT CONTENT, VS   (%): 46.18                                     
+5cp9:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.29                     
+5cp9:REMARK 280                                                                      
+5cp9:REMARK 280 CRYSTALLIZATION CONDITIONS: 19% PEG 4000, 200 MM NA ACETATE, 150     
+5cp9:REMARK 280  MM TRIS, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 293K            
+
+Parsed: 
+19.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+0.2 M SODIUM ACETATE PH None
+0.15 M TRIS PH None
+
+======================================================
+4jfs:REMARK 280                                                                      
+4jfs:REMARK 280 CRYSTAL                                                              
+4jfs:REMARK 280 SOLVENT CONTENT, VS   (%): 59.73                                     
+4jfs:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.05                     
+4jfs:REMARK 280                                                                      
+4jfs:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.13 M AMMONIUM SULFATE, 12% PEG 6K,     
+4jfs:REMARK 280  0.1M IMIDAZOLE PH 7, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE     
+4jfs:REMARK 280  291.5K                                                              
+
+Parsed: 
+0.13 M AMMONIUM SULFATE PH None
+12.0 W/V POLYETHYLENE GLYCOL 6000 PH None
+0.1 M IMIDAZOLE PH 7.0
+
+======================================================
+4jig:REMARK 280                                                                      
+4jig:REMARK 280 CRYSTAL                                                              
+4jig:REMARK 280 SOLVENT CONTENT, VS   (%): 43.51                                     
+4jig:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.18                     
+4jig:REMARK 280                                                                      
+4jig:REMARK 280 CRYSTALLIZATION CONDITIONS: BUCEA.00010.A.B1 PS01733 AT 22.8 MG/ML   
+4jig:REMARK 280  AGAINST JCSG+ SCREEN CONDITION D11, 140 MM CACL2, 70 MM NAOAC PH    
+4jig:REMARK 280  4.6, 14% ISOPROPANOL, 30% GLYCEROL, CRYSTAL TRACKING ID             
+4jig:REMARK 280  242030D11, UNIQUE PUCK ID SMK5-3, VAPOR DIFFUSION, SITTING DROP,    
+4jig:REMARK 280  TEMPERATURE 289K                                                    
+
+Parsed: 
+0.14 M CALCIUM CHLORIDE PH None
+0.07 M SODIUM ACETATE PH 4.6
+14.0 V/V 2-PROPANOL PH None
+30.0 V/V GLYCEROL PH None
+
+======================================================
+3ccy:REMARK 280                                                                      
+3ccy:REMARK 280 CRYSTAL                                                              
+3ccy:REMARK 280 SOLVENT CONTENT, VS   (%): 57.37                                     
+3ccy:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.89                     
+3ccy:REMARK 280                                                                      
+3ccy:REMARK 280 CRYSTALLIZATION CONDITIONS: 1.5M NH4CL, 0.1M TRIS-HCL, PH 8.5,       
+3ccy:REMARK 280  VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 289K                     
+
+Parsed: 
+1.5 M AMMONIUM CHLORIDE PH None
+0.1 M TRIS CHLORIDE PH 8.5
+
+======================================================
+4xwi:REMARK 280                                                                      
+4xwi:REMARK 280 CRYSTAL                                                              
+4xwi:REMARK 280 SOLVENT CONTENT, VS   (%): 54.30                                     
+4xwi:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.69                     
+4xwi:REMARK 280                                                                      
+4xwi:REMARK 280 CRYSTALLIZATION CONDITIONS: MORPHEUS WELL C12 - 37.5% EACH OF MPD,   
+4xwi:REMARK 280  PEG1000, AND PEG3350 + 0.1 M TRIS/BICINE, PH 8.50, + 0.09M EACH     
+4xwi:REMARK 280  OF SODIUM NITRATE, DIBASIC SODIUM PHOSPHATE, AND AMMONIUM           
+4xwi:REMARK 280  SULFATE, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 289K            
+
+Parsed: 
+12.0 V/V 2-METHYL-2,4-PENTANEDIOL PH None
+0.1 M TRIS-BICINE PH 8.5
+0.09 M SODIUM NITRATE PH None
+
+======================================================
+5l5q:REMARK 280                                                                      
+5l5q:REMARK 280 CRYSTAL                                                              
+5l5q:REMARK 280 SOLVENT CONTENT, VS   (%): 66.52                                     
+5l5q:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.67                     
+5l5q:REMARK 280                                                                      
+5l5q:REMARK 280 CRYSTALLIZATION CONDITIONS: 20 MM MGAC2, 13% MPD, 0.1 M MES, PH      
+5l5q:REMARK 280  6.8, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 293K                
+
+Parsed: 
+0.02 M MAGNESIUM ACETATE PH None
+13.0 V/V 2-METHYL-2,4-PENTANEDIOL PH None
+0.1 M MES PH 6.8
+
+======================================================
+5u2l:REMARK 280                                                                      
+5u2l:REMARK 280 CRYSTAL                                                              
+5u2l:REMARK 280 SOLVENT CONTENT, VS   (%): 52.29                                     
+5u2l:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.58                     
+5u2l:REMARK 280                                                                      
+5u2l:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1 M TRIS-HCL PH 8.5, 25% (W/V)         
+5u2l:REMARK 280  PEG3,350, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 298.15K        
+
+Parsed: 
+0.1 M TRIS CHLORIDE PH 8.5
+25.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+
+======================================================
+3hsh:REMARK 280                                                                      
+3hsh:REMARK 280 CRYSTAL                                                              
+3hsh:REMARK 280 SOLVENT CONTENT, VS   (%): 45.15                                     
+3hsh:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.24                     
+3hsh:REMARK 280                                                                      
+3hsh:REMARK 280 CRYSTALLIZATION CONDITIONS: 1.65M AMMONIUM SULFATE, 0.1M CITRIC      
+3hsh:REMARK 280  ACID, PH 3.5, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 298.0K     
+
+Parsed: 
+1.65 M AMMONIUM SULFATE PH None
+0.1 M CITRIC ACID PH 3.5
+
+======================================================
+4o6v:REMARK 280                                                                      
+4o6v:REMARK 280 CRYSTAL                                                              
+4o6v:REMARK 280 SOLVENT CONTENT, VS   (%): 42.27                                     
+4o6v:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.13                     
+4o6v:REMARK 280                                                                      
+4o6v:REMARK 280 CRYSTALLIZATION CONDITIONS: MCSG1(B10): 01M MGCL2, 0.08M TRIS-HCL,   
+4o6v:REMARK 280  PH=8.5, 24% PEG-400, 20% GLYERCOL, VAPOR DIFFUSION, SITTING DROP,   
+4o6v:REMARK 280  TEMPERATURE 289K, PH 8.5                                            
+
+Parsed: 
+1.0 M MAGNESIUM CHLORIDE PH None
+0.08 M TRIS CHLORIDE PH 8.5
+24.0 V/V POLYETHYLENE GLYCOL 400 PH None
+20.0 V/V GLYCEROL PH None
+
+======================================================
+3ukp:REMARK 280                                                                      
+3ukp:REMARK 280 CRYSTAL                                                              
+3ukp:REMARK 280 SOLVENT CONTENT, VS   (%): 63.77                                     
+3ukp:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.39                     
+3ukp:REMARK 280                                                                      
+3ukp:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1M BIS-TRIS- PROPANE PH 7.5-8.5, 0.1   
+3ukp:REMARK 280  -0.2M SODIUM CITRATE, 15-20% PEG 3350, MICRO BATCH, TEMPERATURE     
+3ukp:REMARK 280  295K, PH 8.5                                                        
+
+Parsed: 
+0.1 M BIS-TRIS PROPANE PH 7.5
+0.1 M SODIUM CITRATE PH None
+15.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+
+======================================================
+2ra8:REMARK 280                                                                      
+2ra8:REMARK 280 CRYSTAL                                                              
+2ra8:REMARK 280 SOLVENT CONTENT, VS   (%): 47.91                                     
+2ra8:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.36                     
+2ra8:REMARK 280                                                                      
+2ra8:REMARK 280 CRYSTALLIZATION CONDITIONS: 16-18% PEG 3350, 0.2M MAGNESIUM          
+2ra8:REMARK 280  ACETATE, 0.1M CACODYLIC ACID PH 6.5, VAPOR DIFFUSION, HANGING       
+2ra8:REMARK 280  DROP, TEMPERATURE 291K                                              
+
+Parsed: 
+16.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.2 M MAGNESIUM ACETATE PH None
+0.1 M SODIUM CACODYLATE PH 6.5
+
+======================================================
+4hqf:REMARK 280                                                                      
+4hqf:REMARK 280 CRYSTAL                                                              
+4hqf:REMARK 280 SOLVENT CONTENT, VS   (%): 45.31                                     
+4hqf:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.25                     
+4hqf:REMARK 280                                                                      
+4hqf:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1 M TRIS, PH 8.5, 0.2 M LITHIUM        
+4hqf:REMARK 280  SULFATE, 25% PEG4000, EVAPORATION, TEMPERATURE 277K                 
+
+Parsed: 
+0.1 M TRIS PH 8.5
+0.2 M LITHIUM SULFATE PH None
+25.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+
+======================================================
+6xv7:REMARK 280                                                                      
+6xv7:REMARK 280 CRYSTAL                                                              
+6xv7:REMARK 280 SOLVENT CONTENT, VS   (%): 38.18                                     
+6xv7:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.99                     
+6xv7:REMARK 280                                                                      
+6xv7:REMARK 280 CRYSTALLIZATION CONDITIONS: 29 % PEG 3350, 0.2 M DISODIUM            
+6xv7:REMARK 280  MALONATE, 0.1 M HEPES, PH 7.2, VAPOR DIFFUSION, HANGING DROP,       
+6xv7:REMARK 280  TEMPERATURE 293K                                                    
+
+Parsed: 
+29.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.1 M HEPES PH 7.2
+
+======================================================
+5ha6:REMARK 280                                                                      
+5ha6:REMARK 280 CRYSTAL                                                              
+5ha6:REMARK 280 SOLVENT CONTENT, VS   (%): 22.38                                     
+5ha6:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.58                     
+5ha6:REMARK 280                                                                      
+5ha6:REMARK 280 CRYSTALLIZATION CONDITIONS: 5% (W/V) PEG 3350, 0.1 M SODIUM          
+5ha6:REMARK 280  ACETATE-HCL, PH 4.5, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE     
+5ha6:REMARK 280  298K                                                                
+
+Parsed: 
+5.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.1 M SODIUM ACETATE PH 4.5
+
+======================================================
+6hoh:REMARK 280                                                                      
+6hoh:REMARK 280 CRYSTAL                                                              
+6hoh:REMARK 280 SOLVENT CONTENT, VS   (%): 48.77                                     
+6hoh:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.40                     
+6hoh:REMARK 280                                                                      
+6hoh:REMARK 280 CRYSTALLIZATION CONDITIONS: 20% PEG 3350, 200 MM MAGNESIUM           
+6hoh:REMARK 280  FORMATE, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 293K            
+
+Parsed: 
+20.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.2 M MAGNESIUM FORMATE PH None
+
+======================================================
+4bu4:REMARK 280                                                                      
+4bu4:REMARK 280 CRYSTAL                                                              
+4bu4:REMARK 280 SOLVENT CONTENT, VS   (%): 46.00                                     
+4bu4:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.26                     
+4bu4:REMARK 280                                                                      
+4bu4:REMARK 280 CRYSTALLIZATION CONDITIONS: 20 MM NA-ACETATE PH 4.2 2 MM CACL2 55    
+4bu4:REMARK 280  % MPD                                                               
+
+Parsed: 
+0.02 M SODIUM ACETATE PH 4.2
+0.002 M CALCIUM CHLORIDE PH None
+55.0 V/V 2-METHYL-2,4-PENTANEDIOL PH None
+
+======================================================
+2hlh:REMARK 280                                                                      
+2hlh:REMARK 280 CRYSTAL                                                              
+2hlh:REMARK 280 SOLVENT CONTENT, VS   (%): 54.25                                     
+2hlh:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.69                     
+2hlh:REMARK 280                                                                      
+2hlh:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.25M POTASSIUM DIHYDROGEN PHOSPHATE,    
+2hlh:REMARK 280  0.1M TRIS-HCL, PH 7.5, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE   
+2hlh:REMARK 280  277K, PH 7.50                                                       
+
+Parsed: 
+0.25 M POTASSIUM DIHYDROGEN PHOSPHATE PH None
+0.1 M TRIS CHLORIDE PH 7.5
+
+======================================================
+3bf6:REMARK 280                                                                      
+3bf6:REMARK 280 CRYSTAL                                                              
+3bf6:REMARK 280 SOLVENT CONTENT, VS   (%): 54.89                                     
+3bf6:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.73                     
+3bf6:REMARK 280                                                                      
+3bf6:REMARK 280 CRYSTALLIZATION CONDITIONS: 100 MM TRIS, 25% V/V T-BUTANOL, PH       
+3bf6:REMARK 280  8.5, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 291K                
+
+Parsed: 
+0.1 M TRIS PH None
+25.0 V/V TERT-BUTANOL PH 8.5
+
+======================================================
+4rof:REMARK 280                                                                      
+4rof:REMARK 280 CRYSTAL                                                              
+4rof:REMARK 280 SOLVENT CONTENT, VS   (%): 33.23                                     
+4rof:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.84                     
+4rof:REMARK 280                                                                      
+4rof:REMARK 280 CRYSTALLIZATION CONDITIONS: 1.8 M AMMONIUM SULFATE, 0.2 M SODIUM     
+4rof:REMARK 280  ACETATE, 0.1 M SODIUM CACODYLATE PH 5.5, VAPOR DIFFUSION,           
+4rof:REMARK 280  SITTING DROP, TEMPERATURE 293K                                      
+
+Parsed: 
+1.8 M AMMONIUM SULFATE PH None
+0.2 M SODIUM ACETATE PH None
+0.1 M SODIUM CACODYLATE PH 5.5
+
+======================================================
+5uai:REMARK 280                                                                      
+5uai:REMARK 280 CRYSTAL                                                              
+5uai:REMARK 280 SOLVENT CONTENT, VS   (%): 53.06                                     
+5uai:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.62                     
+5uai:REMARK 280                                                                      
+5uai:REMARK 280 CRYSTALLIZATION CONDITIONS: 20.7 MG/ML PSAEA.17389.A.B1.PW37587      
+5uai:REMARK 280  CRYSTALLIZED IN SITTING DROP VAPOR DIFFUSION WITH RIGAKU MCSG1      
+5uai:REMARK 280  B5: 0.2 M MGCL2; 0.1 M TRIS PH 8.5; 25% PEG3350, CRYO: 20% EG.      
+5uai:REMARK 280  TRAY 259534B5, PUCK RZW4-7, VAPOR DIFFUSION, SITTING DROP,          
+5uai:REMARK 280  TEMPERATURE 290K                                                    
+
+Parsed: 
+0.2 M MAGNESIUM CHLORIDE PH None
+0.1 M TRIS PH 8.5
+25.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+20.0 V/V ETHYLENE GLYCOL PH None
+
+======================================================
+2ooi:REMARK 280                                                                      
+2ooi:REMARK 280 CRYSTAL                                                              
+2ooi:REMARK 280 SOLVENT CONTENT, VS   (%): 72.14                                     
+2ooi:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 4.42                     
+2ooi:REMARK 280                                                                      
+2ooi:REMARK 280 CRYSTALLIZATION CONDITIONS: 2M AMMONIUM SULFATE, 0.1M CAPS, 0.2M     
+2ooi:REMARK 280  LITHIUM SULFATE, PH 10.5, VAPOR DIFFUSION, SITTING DROP,            
+2ooi:REMARK 280  TEMPERATURE 298K                                                    
+
+Parsed: 
+2.0 M AMMONIUM SULFATE PH None
+0.1 M CAPS PH 10.5
+0.2 M LITHIUM SULFATE PH None
+
+======================================================
+3wft:REMARK 280                                                                      
+3wft:REMARK 280 CRYSTAL                                                              
+3wft:REMARK 280 SOLVENT CONTENT, VS   (%): 32.13                                     
+3wft:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.81                     
+3wft:REMARK 280                                                                      
+3wft:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1M TRIS-HCL, 3.4M AMMONIUM SULFATE,    
+3wft:REMARK 280  PH 7.4, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 298K             
+
+Parsed: 
+0.1 M TRIS CHLORIDE PH 7.4
+3.4 M AMMONIUM SULFATE PH None
+
+======================================================
+5vxz:REMARK 280                                                                      
+5vxz:REMARK 280 CRYSTAL                                                              
+5vxz:REMARK 280 SOLVENT CONTENT, VS   (%): 65.03                                     
+5vxz:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.52                     
+5vxz:REMARK 280                                                                      
+5vxz:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.7 M LI2SO4, 0.1 M TRIS.HCL (PH 8.4),   
+5vxz:REMARK 280  VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 295K                     
+
+Parsed: 
+0.7 M LITHIUM SULFATE PH None
+0.1 M TRIS CHLORIDE PH 8.4
+
+======================================================
+4f6m:REMARK 280                                                                      
+4f6m:REMARK 280 CRYSTAL                                                              
+4f6m:REMARK 280 SOLVENT CONTENT, VS   (%): 70.67                                     
+4f6m:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 4.19                     
+4f6m:REMARK 280                                                                      
+4f6m:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.2M SODIUM NITRATE, 20% PEG 3350,       
+4f6m:REMARK 280  VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 294K                     
+
+Parsed: 
+0.2 M SODIUM NITRATE PH None
+20.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+
+======================================================
+2hh9:REMARK 280                                                                      
+2hh9:REMARK 280 CRYSTAL                                                              
+2hh9:REMARK 280 SOLVENT CONTENT, VS   (%): 43.00                                     
+2hh9:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.16                     
+2hh9:REMARK 280                                                                      
+2hh9:REMARK 280 CRYSTALLIZATION CONDITIONS: 20% PEG4000, 0.2M MAGNESIUM              
+2hh9:REMARK 280  CHLORIDE, 0.1M TRIS, 20% GLYCEROL. PROTEIN INCUBATED WITH           
+2hh9:REMARK 280  THIMAN, PH 7.5, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 293K     
+
+Parsed: 
+20.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+0.2 M MAGNESIUM CHLORIDE PH None
+0.1 M TRIS PH None
+20.0 V/V GLYCEROL PH 7.5
+
+======================================================
+1ckj:REMARK 280                                                                      
+1ckj:REMARK 280 CRYSTAL                                                              
+1ckj:REMARK 280 SOLVENT CONTENT, VS   (%): 51.25                                     
+1ckj:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.52                     
+1ckj:REMARK 280                                                                      
+1ckj:REMARK 280 CRYSTALLIZATION CONDITIONS:    MOLECULE: RECOMBINANT CASEIN          
+1ckj:REMARK 280  KINASE I DELTA. CRYSTALS WERE GROWN BY THE SITTING DROP             
+1ckj:REMARK 280  TECHNIQUE, MIXING 3 MICROLITER OF PROTEIN SOLUTION WITH 3           
+1ckj:REMARK 280  MICROLITER OF RESERVOIR SOLUTION. THE PROTEIN SOLUTION              
+1ckj:REMARK 280  CONSISTED OF 14 MG/ML PROTEIN IN 50 MM TRIS-HCL (PH=7.5), 1 MM      
+1ckj:REMARK 280  EDTA, 5 MM DTT, 0.2 M NACL, 2.5 MM BETA-OCTYL GLUCOSIDE. THE        
+1ckj:REMARK 280  RESERVOIR SOLUTION CONTAINED 15% PEG 3400, 50 MM SODIUM             
+1ckj:REMARK 280  CITRATE, 50 MM DIBASIC POTASSIUM PHOSPHATE, (PH=6.8). DATA WAS      
+1ckj:REMARK 280  COLLECTED ON A CRYSTAL SOAKED FOR 6 DAYS IN 15% PEG 3400, 50        
+1ckj:REMARK 280  MM SODIUM CITRATE, 17.5 MM SODIUM TUNGSTATE, (PH=6.8). ROOM         
+1ckj:REMARK 280  TEMPERATURE.                                                        
+
+Parsed: 
+0.05 M TRIS CHLORIDE PH 7.5
+0.001 M EDTA PH None
+0.005 M DITHIOTHREITOL PH None
+0.2 M SODIUM CHLORIDE PH None
+0.0025 M N-OCTYL-B-D-GLUCOPYRANOSIDE PH None
+15.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.05 M SODIUM CITRATE PH None
+0.05 M DIPOTASSIUM HYDROGEN PHOSPHATE PH 6.8
+
+======================================================
+6mjc:REMARK 280                                                                      
+6mjc:REMARK 280 CRYSTAL                                                              
+6mjc:REMARK 280 SOLVENT CONTENT, VS   (%): 69.00                                     
+6mjc:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.97                     
+6mjc:REMARK 280                                                                      
+6mjc:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1 M SODIUM ACETATE, PH 4.5, 3 M        
+6mjc:REMARK 280  SODIUM CHLORIDE, CRYOPROTECTANT: 0.5 M SODIUM CHLORIDE, 0.5 M       
+6mjc:REMARK 280  SODIUM MALONATE, PH 4.5, VAPOR DIFFUSION, HANGING DROP,             
+6mjc:REMARK 280  TEMPERATURE 293K                                                    
+
+Parsed: 
+0.1 M SODIUM ACETATE PH 4.5
+3.0 M SODIUM CHLORIDE PH None
+
+======================================================
+6emb:REMARK 280                                                                      
+6emb:REMARK 280 CRYSTAL                                                              
+6emb:REMARK 280 SOLVENT CONTENT, VS   (%): 58.15                                     
+6emb:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.94                     
+6emb:REMARK 280                                                                      
+6emb:REMARK 280 CRYSTALLIZATION CONDITIONS: 100 MM MES-BIS-TRIS, 75 MM LITHIUM       
+6emb:REMARK 280  CHLORIDE, 1 MM DTT, 0.1 MM SODIUM EDTA, 0.25 MM MEGA 8, 0.7 MM      
+6emb:REMARK 280  PEPTIDIC LIGAND, 5 MM FASUDIL, 23% V/V METHANOL/WATER IN            
+6emb:REMARK 280  RESERVOIR, PH 6.9, VAPOR DIFFUSION, SITTING DROP, TEMPERATURE       
+6emb:REMARK 280  277.15K                                                             
+
+Parsed: 
+0.1 M MES-BIS TRIS PH None
+0.075 M LITHIUM CHLORIDE PH None
+0.001 M DITHIOTHREITOL PH None
+0.0001 M EDTA PH None
+0.00025 M MEGA 8 PH None
+23.0 V/V METHANOL PH 6.9
+
+======================================================
+4e99:REMARK 280                                                                      
+4e99:REMARK 280 CRYSTAL                                                              
+4e99:REMARK 280 SOLVENT CONTENT, VS   (%): 34.08                                     
+4e99:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.87                     
+4e99:REMARK 280                                                                      
+4e99:REMARK 280 CRYSTALLIZATION CONDITIONS: 30-36% PEG3350, 50MM POTASSIUM           
+4e99:REMARK 280  PHOSPHATE, PH 7.5, EVAPORATION, RECRYSTALLIZATION, TEMPERATURE      
+4e99:REMARK 280  298K                                                                
+
+Parsed: 
+30.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.05 M POTASSIUM PHOSPHATE PH 7.5
+
+======================================================
+6pfe:REMARK 280                                                                      
+6pfe:REMARK 280 CRYSTAL                                                              
+6pfe:REMARK 280 SOLVENT CONTENT, VS   (%): 73.30                                     
+6pfe:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 4.60                     
+6pfe:REMARK 280                                                                      
+6pfe:REMARK 280 CRYSTALLIZATION CONDITIONS: WELL SOLUTION 18 % PEG 6000, 0.2 M       
+6pfe:REMARK 280  AMMONIUM SULFATE, 0.06 M LITHIUM SULFATE, 0.1 M TRIS DROP RATIO     
+6pfe:REMARK 280  2:1 ENZYME MIX/WELL SOLUTION, PH 8.0, VAPOR DIFFUSION, HANGING      
+6pfe:REMARK 280  DROP, TEMPERATURE 295.15K                                           
+
+Parsed: 
+18.0 W/V POLYETHYLENE GLYCOL 6000 PH None
+0.2 M AMMONIUM SULFATE PH None
+0.06 M LITHIUM SULFATE PH None
+
+======================================================
+3e0q:REMARK 280                                                                      
+3e0q:REMARK 280 CRYSTAL                                                              
+3e0q:REMARK 280 SOLVENT CONTENT, VS   (%): 38.98                                     
+3e0q:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.02                     
+3e0q:REMARK 280                                                                      
+3e0q:REMARK 280 CRYSTALLIZATION CONDITIONS: 18-20% PEG 1500, 20% GLYCEROL, 32MM      
+3e0q:REMARK 280  SODIUM ACETATE, PH 4.9-5.0, VAPOR DIFFUSION, HANGING DROP,          
+3e0q:REMARK 280  TEMPERATURE 277K                                                    
+
+Parsed: 
+18.0 W/V POLYETHYLENE GLYCOL 1500 PH None
+20.0 V/V GLYCEROL PH None
+0.032 M SODIUM ACETATE PH 4.9
+
+======================================================
+5pts:REMARK 280                                                                      
+5pts:REMARK 280 CRYSTAL                                                              
+5pts:REMARK 280 SOLVENT CONTENT, VS   (%): 43.82                                     
+5pts:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.19                     
+5pts:REMARK 280                                                                      
+5pts:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1M BIS-TRIS PH 7.0 -- 30% PEG3350,     
+5pts:REMARK 280  VAPOR DIFFUSION, SITTING DROP, TEMPERATURE 293K                     
+
+Parsed: 
+0.1 M BIS-TRIS PH 7.0
+30.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+
+======================================================
+3bc3:REMARK 280                                                                      
+3bc3:REMARK 280 CRYSTAL                                                              
+3bc3:REMARK 280 SOLVENT CONTENT, VS   (%): 44.36                                     
+3bc3:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.21                     
+3bc3:REMARK 280                                                                      
+3bc3:REMARK 280 CRYSTALLIZATION CONDITIONS: 17%(W/V) POLYETHYLENE GLYCOL 8000,       
+3bc3:REMARK 280  0.2M AMMONIUM SULFATE, VAPOR DIFFUSION, HANGING DROP,               
+3bc3:REMARK 280  TEMPERATURE 293K                                                    
+
+Parsed: 
+17.0 W/V POLYETHYLENE GLYCOL 8000 PH None
+0.2 M AMMONIUM SULFATE PH None
+
+======================================================
+3o1e:REMARK 280                                                                      
+3o1e:REMARK 280 CRYSTAL                                                              
+3o1e:REMARK 280 SOLVENT CONTENT, VS   (%): 46.87                                     
+3o1e:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.31                     
+3o1e:REMARK 280                                                                      
+3o1e:REMARK 280 CRYSTALLIZATION CONDITIONS: 50 MM BIS-TRIS PH6.5, 1.6 M LITHIUM      
+3o1e:REMARK 280  SULFATE, 50 MM MAGNESIUM SULFATE, VAPOR DIFFUSION, HANGING DROP,    
+3o1e:REMARK 280  TEMPERATURE 297K                                                    
+
+Parsed: 
+0.05 M BIS-TRIS PH 6.5
+1.6 M LITHIUM SULFATE PH None
+0.05 M MAGNESIUM SULFATE PH None
+
+======================================================
+6cgj:REMARK 280                                                                      
+6cgj:REMARK 280 CRYSTAL                                                              
+6cgj:REMARK 280 SOLVENT CONTENT, VS   (%): 31.48                                     
+6cgj:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 1.80                     
+6cgj:REMARK 280                                                                      
+6cgj:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1 M MES 6.5, 0.2 M MAGNESIUM           
+6cgj:REMARK 280  ACETATE, 18% (W/V) PEG 8000, PH 6.5, VAPOR DIFFUSION, HANGING       
+6cgj:REMARK 280  DROP, TEMPERATURE 293K                                              
+
+Parsed: 
+0.1 M MES PH 6.5
+0.2 M MAGNESIUM ACETATE PH None
+18.0 W/V POLYETHYLENE GLYCOL 8000 PH None
+
+======================================================
+6de4:REMARK 280                                                                      
+6de4:REMARK 280 CRYSTAL                                                              
+6de4:REMARK 280 SOLVENT CONTENT, VS   (%): 73.41                                     
+6de4:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 4.63                     
+6de4:REMARK 280                                                                      
+6de4:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1M TRIS PH 7.6,0.2M LISO4, 15MM        
+6de4:REMARK 280  CACL2, 6% ETOH, 15% ETHYLENE GLYCOL, VAPOR DIFFUSION,               
+6de4:REMARK 280  TEMPERATURE 277K                                                    
+
+Parsed: 
+0.1 M TRIS PH 7.6
+0.2 M LITHIUM SULFATE PH None
+0.015 M CALCIUM CHLORIDE PH None
+6.0 V/V ETHANOL PH None
+15.0 V/V ETHYLENE GLYCOL PH None
+
+======================================================
+3i2k:REMARK 280                                                                      
+3i2k:REMARK 280 CRYSTAL                                                              
+3i2k:REMARK 280 SOLVENT CONTENT, VS   (%): 56.36                                     
+3i2k:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.82                     
+3i2k:REMARK 280                                                                      
+3i2k:REMARK 280 CRYSTALLIZATION CONDITIONS: 10MM TRIS PH 7.5, 25 MM NACL, 1.6 M      
+3i2k:REMARK 280  AMMONIUM SULFATE, 10MM DTT, VAPOR DIFFUSION, HANGING DROP,          
+3i2k:REMARK 280  TEMPERATURE 293K                                                    
+
+Parsed: 
+0.01 M TRIS PH 7.5
+0.025 M SODIUM CHLORIDE PH None
+1.6 M AMMONIUM SULFATE PH None
+0.01 M DITHIOTHREITOL PH None
+
+======================================================
+4ccs:REMARK 280                                                                      
+4ccs:REMARK 280 CRYSTAL                                                              
+4ccs:REMARK 280 SOLVENT CONTENT, VS   (%): 54                                        
+4ccs:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.68                     
+4ccs:REMARK 280                                                                      
+4ccs:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.2M IMIDAZOLE MALATE PH 5.5,            
+4ccs:REMARK 280  24% PEG 600                                                         
+
+Parsed: 
+0.2 M DL-MALATE-IMIDAZOLE PH 5.5
+24.0 W/V POLYETHYLENE GLYCOL 600 PH None
+
+======================================================
+6j10:REMARK 280                                                                      
+6j10:REMARK 280 CRYSTAL                                                              
+6j10:REMARK 280 SOLVENT CONTENT, VS   (%): 57.39                                     
+6j10:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.89                     
+6j10:REMARK 280                                                                      
+6j10:REMARK 280 CRYSTALLIZATION CONDITIONS: 100MM AMMONIUM CITRATE PH 6.0, 14%       
+6j10:REMARK 280  PEG5000MME, 2% HEXYLENE GLYCOL, 10% ISOPROPANOL, VAPOR DIFFUSION,   
+6j10:REMARK 280  SITTING DROP, TEMPERATURE 295K                                      
+
+Parsed: 
+0.1 M AMMONIUM CITRATE PH 6.0
+14.0 W/V POLYETHYLENE GLYCOL MONOMETHYL ETHER 5000 PH None
+10.0 V/V 2-PROPANOL PH None
+
+======================================================
+4mg2:REMARK 280                                                                      
+4mg2:REMARK 280 CRYSTAL                                                              
+4mg2:REMARK 280 SOLVENT CONTENT, VS   (%): 61.41                                     
+4mg2:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.19                     
+4mg2:REMARK 280                                                                      
+4mg2:REMARK 280 CRYSTALLIZATION CONDITIONS: 12% PEG 5000, 100MM SODIUM CHLORIDE,     
+4mg2:REMARK 280  50MM MAGNESIUM CHLORIDE, 100MM CACODYLATE, PH 6.5, VAPOR            
+4mg2:REMARK 280  DIFFUSION, HANGING DROP, TEMPERATURE 277K                           
+
+Parsed: 
+12.0 W/V POLYETHYLENE GLYCOL MONOMETHYL ETHER 5000 PH None
+0.1 M SODIUM CHLORIDE PH None
+0.05 M MAGNESIUM CHLORIDE PH None
+0.1 M SODIUM CACODYLATE PH 6.5
+
+======================================================
+5gvk:REMARK 280                                                                      
+5gvk:REMARK 280 CRYSTAL                                                              
+5gvk:REMARK 280 SOLVENT CONTENT, VS   (%): 47.12                                     
+5gvk:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.33                     
+5gvk:REMARK 280                                                                      
+5gvk:REMARK 280 CRYSTALLIZATION CONDITIONS: PEG4000, 0.06-0.12M NACL, 0.1M TRIS      
+5gvk:REMARK 280  -HCL PH 8.5, MICROBATCH, TEMPERATURE 298K                           
+
+Parsed: 
+0.06 M SODIUM CHLORIDE PH None
+0.1 M TRIS CHLORIDE PH 8.5
+
+======================================================
+4wyk:REMARK 280                                                                      
+4wyk:REMARK 280 CRYSTAL                                                              
+4wyk:REMARK 280 SOLVENT CONTENT, VS   (%): 58.25                                     
+4wyk:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.95                     
+4wyk:REMARK 280                                                                      
+4wyk:REMARK 280 CRYSTALLIZATION CONDITIONS: 9 % PEG 6000, 1 M LICL, 0.1 M SODIUM     
+4wyk:REMARK 280  CITRATE BUFFER PH 5.1 SEE PUBLICATION FOR FULL DETAILS., VAPOR      
+4wyk:REMARK 280  DIFFUSION, SITTING DROP, TEMPERATURE 291K                           
+
+Parsed: 
+9.0 W/V POLYETHYLENE GLYCOL 6000 PH None
+1.0 M LITHIUM CHLORIDE PH None
+
+======================================================
+1vrx:REMARK 280                                                                      
+1vrx:REMARK 280 CRYSTAL                                                              
+1vrx:REMARK 280 SOLVENT CONTENT, VS   (%): 71.66                                     
+1vrx:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.00                     
+1vrx:REMARK 280                                                                      
+1vrx:REMARK 280 CRYSTALLIZATION CONDITIONS: 2.2M NACL 0.1M SODIUM CITRATE (PH4)      
+1vrx:REMARK 280  0.3M MANOHEPTOSE, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 296K   
+
+Parsed: 
+2.2 M SODIUM CHLORIDE PH None
+0.1 M SODIUM CITRATE PH 4.0
+
+======================================================
+6byj:REMARK 280                                                                      
+6byj:REMARK 280 CRYSTAL                                                              
+6byj:REMARK 280 SOLVENT CONTENT, VS   (%): 64.65                                     
+6byj:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.48                     
+6byj:REMARK 280                                                                      
+6byj:REMARK 280 CRYSTALLIZATION CONDITIONS: 29% PEG 4000, 200 MM SODIUM ACETATE,     
+6byj:REMARK 280  0.1 M TRIS PH 8.5, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE       
+6byj:REMARK 280  298K                                                                
+
+Parsed: 
+29.0 W/V POLYETHYLENE GLYCOL 4000 PH None
+0.2 M SODIUM ACETATE PH None
+0.1 M TRIS PH 8.5
+
+======================================================
+3us6:REMARK 280                                                                      
+3us6:REMARK 280 CRYSTAL                                                              
+3us6:REMARK 280 SOLVENT CONTENT, VS   (%): 41.17                                     
+3us6:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.09                     
+3us6:REMARK 280                                                                      
+3us6:REMARK 280 CRYSTALLIZATION CONDITIONS: 0.1M BIS-TRIS, 25% PEG 3350, 0.2M        
+3us6:REMARK 280  AMMONIUM ACETATE, PH 5.5, VAPOR DIFFUSION, HANGING DROP,            
+3us6:REMARK 280  TEMPERATURE 291K                                                    
+
+Parsed: 
+0.1 M BIS-TRIS PH None
+25.0 W/V POLYETHYLENE GLYCOL 3350 PH None
+0.2 M AMMONIUM ACETATE PH 5.5
+
+======================================================
+5od7:REMARK 280                                                                      
+5od7:REMARK 280 CRYSTAL                                                              
+5od7:REMARK 280 SOLVENT CONTENT, VS   (%): 58.29                                     
+5od7:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.95                     
+5od7:REMARK 280                                                                      
+5od7:REMARK 280 CRYSTALLIZATION CONDITIONS: NA-CACODYLATE, PH 6.5 28% PEG8000 0,2    
+5od7:REMARK 280  M NH4-SULFATE, VAPOR DIFFUSION, HANGING DROP, TEMPERATURE 277K      
+
+Parsed: 
+2.0 M AMMONIUM SULFATE PH None
+
+======================================================
+4czw:REMARK 280                                                                      
+4czw:REMARK 280 CRYSTAL                                                              
+4czw:REMARK 280 SOLVENT CONTENT, VS   (%): 66                                        
+4czw:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 3.7                      
+4czw:REMARK 280                                                                      
+4czw:REMARK 280 CRYSTALLIZATION CONDITIONS: 1.4M SODIUM FORMATE, 100MM SODIUM        
+4czw:REMARK 280  ACETATE, 100MM SODIUM CITRATE (PH5.5)                               
+
+Parsed: 
+1.4 M SODIUM FORMATE PH None
+0.1 M SODIUM ACETATE PH 5.5
+0.1 M SODIUM CITRATE PH None
+
+======================================================
+1wka:REMARK 280                                                                      
+1wka:REMARK 280 CRYSTAL                                                              
+1wka:REMARK 280 SOLVENT CONTENT, VS   (%): 57.13                                     
+1wka:REMARK 280 MATTHEWS COEFFICIENT, VM (ANGSTROMS**3/DA): 2.87                     
+1wka:REMARK 280                                                                      
+1wka:REMARK 280 CRYSTALLIZATION CONDITIONS: 100MM TRIS-HCL BUFFER (PH 8.0),          
+1wka:REMARK 280  1.15M TRI-SODIUM CITRATE, 5% 2-PROPANOL, VAPOR DIFFUSION,           
+1wka:REMARK 280  HANGING DROP, TEMPERATURE 293K                                      
+
+Parsed: 
+0.1 M TRIS CHLORIDE PH 8.0
+1.15 M TRISODIUM CITRATE PH None
+5.0 V/V 2-PROPANOL PH None

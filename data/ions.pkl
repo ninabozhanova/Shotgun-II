@@ -1,0 +1,188 @@
+(lp0
+Vsodium phosphate buffer class
+p1
+aVsodium phosphate non-buffer class
+p2
+aVpotassium phosphate buffer class
+p3
+aVpotassium phosphate non-buffer class
+p4
+aVammonium phosphate buffer class
+p5
+aVammonium phosphate non-buffer class
+p6
+aVsodium potassium phosphate buffer class
+p7
+aVsodium potassium phosphate non-buffer class
+p8
+aVbis-tris buffer class
+p9
+aVbis-tris non-buffer class
+p10
+aVbis-tris propane buffer class
+p11
+aVbis-tris propane non-buffer class
+p12
+aVmes buffer class
+p13
+aVmes non-buffer class
+p14
+aVhepes buffer class
+p15
+aVhepes non-buffer class
+p16
+aVtris buffer class
+p17
+aVtris non-buffer class
+p18
+aVmalonate buffer class
+p19
+aVmalonate non-buffer class
+p20
+aVmalate buffer class
+p21
+aVmalate non-buffer class
+p22
+aVsuccinate buffer class
+p23
+aVsuccinate non-buffer class
+p24
+aVcitrate buffer class
+p25
+aVcitrate non-buffer class
+p26
+aVacetate buffer class
+p27
+aVacetate non-buffer class
+p28
+aVches buffer class
+p29
+aVches non-buffer class
+p30
+aVmaleate buffer class
+p31
+aVmaleate non-buffer class
+p32
+aVammonium
+p33
+aVacetate
+p34
+aVchloride
+p35
+aVhydrogen
+p36
+aVphosphate
+p37
+aVfluoride
+p38
+aVformate
+p39
+aViodide
+p40
+aVnitrate
+p41
+aVsulfate
+p42
+aVbarium
+p43
+aVcadmium
+p44
+aVcalcium
+p45
+aVcesium
+p46
+aVcobalt
+p47
+aVcitrate
+p48
+aVtartrate
+p49
+aVpotassium
+p50
+aVsodium
+p51
+aViron
+p52
+aVlithium
+p53
+aVmagnesium
+p54
+aVnickel
+p55
+aVthiocyanate
+p56
+aVcacodylate
+p57
+aVstrontium
+p58
+aVzinc
+p59
+aVhexammine cobalt
+p60
+aVmalate
+p61
+aVmalonate
+p62
+aVsuccinate
+p63
+aVcyanate
+p64
+aVperchlorate
+p65
+aVmaleate
+p66
+aVmanganate
+p67
+aValuminium
+p68
+aVmangenese
+p69
+aVyttrium
+p70
+aVyytterbium
+p71
+aVterbium
+p72
+aVtantalum
+p73
+aVsamarium
+p74
+aVruthenium
+p75
+aVrubidium
+p76
+aVrhenium
+p77
+aVpraseodymium
+p78
+aVosmium
+p79
+aVneodymium
+p80
+aVmolybdenum
+p81
+aVmercury
+p82
+aVlutetium
+p83
+aVlanthanum
+p84
+aVholmium
+p85
+aVgadolinium
+p86
+aVerbium
+p87
+aVeuropium
+p88
+aVcopper
+p89
+aVchromium
+p90
+aVberyllium
+p91
+aVtungsten
+p92
+aVselenium
+p93
+a.
