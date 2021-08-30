@@ -7,7 +7,14 @@ Please cite [Data and Diversity Driven Development of a Shotgun Crystallisation 
 
 Thanks for your interest!
 
-Run in order:
+All dataframes have been uploaded to the Generated folder. 
+
+Main analysis files:
+cohits.ipynb - to analyse cohit data
+shotgun_X_and_filtered.py - to create Shotgun II screens
+meta_analysis.ipynb - various analysis of Shotgun II data
+
+To genate dataframes from scratch, run in order:
 1. chem_cleaner.py
 2. make_chems_info_table.py
 3. make_chems_info_table.py
@@ -19,8 +26,3 @@ Run in order:
 9. associate_ions.py
 10. assign_buffer_class.py
 11. make_nrscc.py
-
-Then analysis:
-cohits.ipynb - to analyse cohit data
-shotgun_X_and_filtered.py - to create Shotgun II screens
-meta_analysis.ipynb - various analysis of Shotgun II data
