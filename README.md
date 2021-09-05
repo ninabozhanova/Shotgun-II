@@ -1,7 +1,7 @@
-_Warning!_ This code is made available in the interest of scientific openness. It is not very well designed, and certainly was not intended for any purpose other than generating results in the course a research project - so please keep that in mind :) 
+_Warning!_ This code is made available in the interest of scientific openness. It was not intended for any purpose other than generating results in the course a research project - so please keep that in mind :) 
 
 Feel free to get in touch if you need need any assistance. 
-My recommendation is *not* to use this code, though some ideas (better presented in the paper) may be useful. 
+My recommendation is *not* to use this code blindly, though some ideas (better presented in the paper) may be useful. 
 
 Please cite [Data and Diversity Driven Development of a Shotgun Crystallisation Screen using the Protein Data Bank](https://doi.org/10.1101/2021.08.11.456002) (Gabriel Abrahams & Janet Newman, BioRxiv preprint) if you use this code in any way.
 
