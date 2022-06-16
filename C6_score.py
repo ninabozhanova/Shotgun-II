@@ -44,6 +44,7 @@ for ion in range(len(ions_table)):
     max_stoch = stoch_mask.max()
     if not max_stoch: max_stoch = 1
     mask = stoch_mask != False
+    mask &= (chems_table[mask]['percentage concentration'] < 2)
     ions_max[ion] = max_stoch * chems_table[mask]['percentage concentration'].max()
     ions_min[ion] = chems_table[mask]['percentage concentration'].min()
 
@@ -54,7 +55,7 @@ def get_ions(chems):
         for ion in chem["ions"]:
             stochiometry = ion[0]
             ion_id = ion[1]
-            ions[ion] = ions.setdefault(ion, 0) + stochiometry * chem['percentage concentration']
+            ions[ion_id] = ions.setdefault(ion_id, 0) + stochiometry * chem['percentage concentration']
     return ions
 #%%
 peg_mw_re = re.compile(r'\d+(?:\.\d+)?')
@@ -107,15 +108,19 @@ def C6_score(chems_1, chems_2, debug=False):
 
     for k1 in ions_1:
         for k2 in ions_2:
-            if k1[1] == k2[1]:
+            if k1 == k2:
+                if abs(ions_1[k1] - ions_2[k2]) < 1e-6:
+                    if debug:
+                        print(f"\nion: {ions_table.iloc[k1]['name']}")
+                        print("Identical concentrations")
                 T += 1
-                D += min(1, 0.3 + 0.5 * abs(ions_1[k1] - ions_2[k2]) / (ions_max[k1[-1]] + ions_max[k2[-1]]))
+                D += min(1, 0.3 + 0.5 * abs(ions_1[k1] - ions_2[k2]) / (ions_max[k1] + ions_max[k2]))
                 
                 if debug:
-                    print(f"\nion: {ions_table.iloc[k1[-1]]['name']}")
+                    print(f"\nion: {ions_table.iloc[k1]['name']}")
                     print(f"\tT += 1 -> T = {T}")
-                    print(f"\tD += min(1, 0.3 + 0.5 * abs({ions_1[k1]} - {ions_2[k2]}) / ({ions_max[k1[-1]]} + {ions_max[k2[-1]]}))")
-                    print(f"\t   = {min(1, 0.3 + 0.5 * abs(ions_1[k1] - ions_2[k2]) / (ions_max[k1[-1]] + ions_max[k2[-1]])):.3f} -> D = {D:.3f}")
+                    print(f"\tD += min(1, 0.3 + 0.5 * abs({ions_1[k1]} - {ions_2[k2]}) / ({ions_max[k1]} + {ions_max[k2]}))")
+                    print(f"\t   = {min(1, 0.3 + 0.5 * abs(ions_1[k1] - ions_2[k2]) / (ions_max[k1] + ions_max[k2])):.3f} -> D = {D:.3f}")
 
     distinct = set(chems_1["name"])
     distinct.update(set(chems_2["name"]))
