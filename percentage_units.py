@@ -19,10 +19,13 @@ def add_percentage_concentration(df):
         chem_info = chem_info_table[chem_info_table["name"]==row["name"]]
         if len(chem_info) > 0:
             chem_info = chem_info.iloc[0]
-            if row["units"] == "m":
+            if row["units"] == "m" or row["units"] == "mm":
                 if len(chem_info) > 0:
                     mw = chem_info["mw"]
-                    conc_percentage = row["conc"] * mw / 100 if mw != None else None
+                    if row["units"] == "m":
+                        conc_percentage = row["conc"] * mw / 100 if mw != None else None
+                    else: 
+                        conc_percentage = row["conc"] / 1000.0 * mw / 100 if mw != None else None
                     molarity = row["conc"]
                 else:
                     no_units.append(row["name"])
