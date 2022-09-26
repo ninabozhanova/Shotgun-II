@@ -10,6 +10,7 @@ chems = list(root)[0]
 properties_list = []
 
 float_or_none = lambda x: float(x) if x != '' else None
+text_or_none = lambda x: x if x != '' else None
 
 for chem in chems:
     properties = chem.attrib
@@ -20,7 +21,8 @@ for chem in chems:
         "pka3" : float_or_none(properties['pka3']),
         "mw"   : float_or_none(properties['mw']),
         "solubility" : float_or_none(properties['solubility']),
-        "density"    : float_or_none(properties['density'])
+        "density"    : float_or_none(properties['density']),
+        "ions" : text_or_none(properties['ions']),
     }, index=[0]))
 
 df = pd.concat(properties_list, ignore_index=True)
